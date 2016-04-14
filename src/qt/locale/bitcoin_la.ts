@@ -2237,7 +2237,7 @@ Inscriptio: %4
     <message>
         <location line="-28"/>
         <source>Listen for connections on &lt;port&gt; (default: 9333 or testnet: 19333)</source>
-        <translation>Ausculta pro conexionibus in &lt;porta&gt; (praedefinitum: 9333 vel testnet: 19333)</translation>
+        <translation>AMINUulta pro conexionibus in &lt;porta&gt; (praedefinitum: 9333 vel testnet: 19333)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2267,12 +2267,12 @@ Inscriptio: %4
     <message>
         <location line="-29"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv4: %s</source>
-        <translation>Error erat dum initians portam RPC %u pro auscultando in IPv4: %s</translation>
+        <translation>Error erat dum initians portam RPC %u pro aMINUultando in IPv4: %s</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 9332 or testnet: 19332)</source>
-        <translation>Ausculta pro conexionibus JSON-RPC in &lt;porta&gt; (praedefinitum: 9332 vel testnet: 19332)</translation>
+        <translation>AMINUulta pro conexionibus JSON-RPC in &lt;porta&gt; (praedefinitum: 9332 vel testnet: 19332)</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -2322,12 +2322,12 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Litecoin Notificatio&quot; 
     <message>
         <location line="+17"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s</source>
-        <translation>Error erat dum initians portam RPC %u pro auscultando in IPv6, labens retrorsum ad IPv4: %s</translation>
+        <translation>Error erat dum initians portam RPC %u pro aMINUultando in IPv6, labens retrorsum ad IPv4: %s</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
-        <translation>Conglutina ad inscriptionem datam et semper in eam ausculta.  Utere [moderatrum]:porta notationem pro IPv6</translation>
+        <translation>Conglutina ad inscriptionem datam et semper in eam aMINUulta.  Utere [moderatrum]:porta notationem pro IPv6</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2412,7 +2412,7 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Litecoin Notificatio&quot; 
     <message>
         <location line="+1"/>
         <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
-        <translation>Discooperi propriam inscriptionem IP (praedefinitum: 1 quando auscultans et nullum -externalip)</translation>
+        <translation>Discooperi propriam inscriptionem IP (praedefinitum: 1 quando aMINUultans et nullum -externalip)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2457,7 +2457,7 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Litecoin Notificatio&quot; 
     <message>
         <location line="+1"/>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>Non potuisse auscultare in ulla porta.  Utere -listen=0 si hoc vis.</translation>
+        <translation>Non potuisse aMINUultare in ulla porta.  Utere -listen=0 si hoc vis.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2692,12 +2692,12 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Litecoin Notificatio&quot; 
     <message>
         <location line="+7"/>
         <source>Use UPnP to map the listening port (default: 0)</source>
-        <translation>Utere UPnP designare portam auscultandi (praedefinitum: 0)</translation>
+        <translation>Utere UPnP designare portam aMINUultandi (praedefinitum: 0)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation>Utere UPnP designare portam auscultandi (praedefinitum: 1 quando auscultans)</translation>
+        <translation>Utere UPnP designare portam aMINUultandi (praedefinitum: 1 quando aMINUultans)</translation>
     </message>
     <message>
         <location line="+1"/>

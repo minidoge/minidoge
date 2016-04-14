@@ -20,7 +20,7 @@ class CReserveKey;
 #include "util.h"
 
 // HTTP status codes
-enum HTTPStatusCode
+enum HTTPStatMINUode
 {
     HTTP_OK                    = 200,
     HTTP_BAD_REQUEST           = 400,

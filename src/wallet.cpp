@@ -295,7 +295,7 @@ bool CWallet::EncryptWallet(const SecureString& strWalletPassphrase)
         CDB::Rewrite(strWalletFile);
 
     }
-    NotifyStatusChanged(this);
+    NotifyStatMINUhanged(this);
 
     return true;
 }

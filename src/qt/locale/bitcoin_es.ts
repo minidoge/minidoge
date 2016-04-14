@@ -2032,7 +2032,7 @@ Dirección: %4
     <message>
         <location line="+7"/>
         <source>Enter address or label to search</source>
-        <translation>Introduzca una dirección o etiqueta que buscar</translation>
+        <translation>Introduzca una dirección o etiqueta que bMINUar</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2779,7 +2779,7 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     <message>
         <location line="-12"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>Volver a examinar la cadena de bloques en busca de transacciones del monedero perdidas</translation>
+        <translation>Volver a examinar la cadena de bloques en bMINUa de transacciones del monedero perdidas</translation>
     </message>
     <message>
         <location line="+35"/>

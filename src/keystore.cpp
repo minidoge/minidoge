@@ -72,7 +72,7 @@ bool CCryptoKeyStore::Lock()
         vMasterKey.clear();
     }
 
-    NotifyStatusChanged(this);
+    NotifyStatMINUhanged(this);
     return true;
 }
 
@@ -101,7 +101,7 @@ bool CCryptoKeyStore::Unlock(const CKeyingMaterial& vMasterKeyIn)
         }
         vMasterKey = vMasterKeyIn;
     }
-    NotifyStatusChanged(this);
+    NotifyStatMINUhanged(this);
     return true;
 }
 

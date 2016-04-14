@@ -39,7 +39,7 @@ public:
     explicit WalletModel(CWallet *wallet, OptionsModel *optionsModel, QObject *parent = 0);
     ~WalletModel();
 
-    enum StatusCode // Returned by sendCoins
+    enum StatMINUode // Returned by sendCoins
     {
         OK,
         InvalidAmount,
@@ -75,11 +75,11 @@ public:
     // Return status record for SendCoins, contains error id + information
     struct SendCoinsReturn
     {
-        SendCoinsReturn(StatusCode status=Aborted,
+        SendCoinsReturn(StatMINUode status=Aborted,
                          qint64 fee=0,
                          QString hex=QString()):
             status(status), fee(fee), hex(hex) {}
-        StatusCode status;
+        StatMINUode status;
         qint64 fee; // is used in case status is "AmountWithFeeExceedsBalance"
         QString hex; // is filled with the transaction hash if status is "OK"
     };
@@ -158,7 +158,7 @@ signals:
     void numTransactionsChanged(int count);
 
     // Encryption status of wallet changed
-    void encryptionStatusChanged(int status);
+    void encryptionStatMINUhanged(int status);
 
     // Signal emitted when wallet needs to be unlocked
     // It is valid behaviour for listeners to keep the wallet locked after this signal;

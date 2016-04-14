@@ -2032,7 +2032,7 @@ Dirección: %4</translation>
     <message>
         <location line="+7"/>
         <source>Enter address or label to search</source>
-        <translation>Introduce una dirección o etiqueta para  buscar</translation>
+        <translation>Introduce una dirección o etiqueta para  bMINUar</translation>
     </message>
     <message>
         <location line="+7"/>

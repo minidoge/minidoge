@@ -272,7 +272,7 @@ class CBitcoinAddress : public CBase58Data
 public:
     enum
     {
-        PUBKEY_ADDRESS = 68, // UnitedScryptCoin addresses start with U
+        PUBKEY_ADDRESS = 68, // minidoge addresses start with U
         SCRIPT_ADDRESS = 5,
         PUBKEY_ADDRESS_TEST = 65, // testnet keys start with T
         SCRIPT_ADDRESS_TEST = 196,

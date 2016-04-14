@@ -1,7 +1,7 @@
 src/*.exe
-src/unitedscryptcoin
-src/unitedscryptcoind
-src/test_unitedscryptcoin
+src/minidoge
+src/minidoged
+src/test_minidoge
 .*.swp
 *.*~*
 *.bak
@@ -9,13 +9,13 @@ src/test_unitedscryptcoin
 *.orig
 *.o
 *.patch
-.unitedscryptcoin
+.minidoge
 
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-unitedscryptcoin-qt
-UnitedScryptCoin-Qt.app
+minidoge-qt
+minidoge-Qt.app
 
 # Unit-tests
 Makefile.test

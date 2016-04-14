@@ -123,7 +123,7 @@ void WalletView::setWalletModel(WalletModel *walletModel)
         signVerifyMessageDialog->setModel(walletModel);
 
         setEncryptionStatus();
-        connect(walletModel, SIGNAL(encryptionStatusChanged(int)), gui, SLOT(setEncryptionStatus(int)));
+        connect(walletModel, SIGNAL(encryptionStatMINUhanged(int)), gui, SLOT(setEncryptionStatus(int)));
 
         // Balloon pop-up for new transaction
         connect(walletModel->getTransactionTableModel(), SIGNAL(rowsInserted(QModelIndex,int,int)),

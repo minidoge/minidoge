@@ -169,7 +169,7 @@ public:
     /* Wallet status (encrypted, locked) changed.
      * Note: Called without locks held.
      */
-    boost::signals2::signal<void (CCryptoKeyStore* wallet)> NotifyStatusChanged;
+    boost::signals2::signal<void (CCryptoKeyStore* wallet)> NotifyStatMINUhanged;
 };
 
 #endif

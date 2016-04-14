@@ -265,7 +265,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
         <location line="+100"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>Attenzione: tasto Blocco maiuscole attivo.</translation>
+        <translation>Attenzione: tasto Blocco maiMINUole attivo.</translation>
     </message>
     <message>
         <location line="-130"/>
@@ -749,7 +749,7 @@ Indirizzo: %4
     <message>
         <location line="+5"/>
         <source>New key generation failed.</source>
-        <translation>Generazione della nuova chiave non riuscita.</translation>
+        <translation>Generazione della nuova chiave non riMINUita.</translation>
     </message>
 </context>
 <context>
@@ -912,7 +912,7 @@ Indirizzo: %4
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Riduci ad icona, invece di uscire dall&apos;applicazione quando la finestra viene chiusa. Quando questa opzione è attivata, l&apos;applicazione verrà chiusa solo dopo aver selezionato Esci nel menu.</translation>
+        <translation>Riduci ad icona, invece di MINUire dall&apos;applicazione quando la finestra viene chiusa. Quando questa opzione è attivata, l&apos;applicazione verrà chiusa solo dopo aver selezionato Esci nel menu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2902,7 +2902,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     <message>
         <location line="+64"/>
         <source>Fee per KB to add to transactions you send</source>
-        <translation>Commissione per KB da aggiungere alle transazioni in uscita</translation>
+        <translation>Commissione per KB da aggiungere alle transazioni in MINUita</translation>
     </message>
     <message>
         <location line="+19"/>
