@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Litecoin - Debug window</string>
+   <string>Minidoge - Debug window</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>
@@ -36,7 +36,7 @@
           </font>
          </property>
          <property name="text">
-          <string>Litecoin Core</string>
+          <string>Minidoge Core</string>
          </property>
         </widget>
        </item>
@@ -66,7 +66,7 @@
        <item row="2" column="0">
         <widget class="QLabel" name="label_6">
          <property name="text">
-          <string>Client version</string>
+          <string>Shiba version</string>
          </property>
         </widget>
        </item>
