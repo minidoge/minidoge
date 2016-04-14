@@ -43,7 +43,7 @@
        <item row="1" column="0">
         <widget class="QLabel" name="label_5">
          <property name="text">
-          <string>Client name</string>
+          <string>Mystery name</string>
          </property>
         </widget>
        </item>
@@ -167,7 +167,7 @@
           </font>
          </property>
          <property name="text">
-          <string>Network</string>
+          <string>Other Shiba</string>
          </property>
         </widget>
        </item>
