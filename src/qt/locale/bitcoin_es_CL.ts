@@ -4,7 +4,7 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Litecoin</source>
+        <source>About Minidoge</source>
         <translation>Sobre Litecoin</translation>
     </message>
     <message>
@@ -377,7 +377,7 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Litecoin</source>
+        <source>Show information About Minidoge</source>
         <translation>Muestra información acerca de Litecoin</translation>
     </message>
     <message>
@@ -483,7 +483,7 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Litecoin</source>
+        <source>&amp;About Minidoge</source>
         <translation>&amp;Sobre Litecoin</translation>
     </message>
     <message>

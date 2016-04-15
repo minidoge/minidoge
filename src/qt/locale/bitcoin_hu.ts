@@ -4,7 +4,7 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Litecoin</source>
+        <source>About Minidoge</source>
         <translation>A Litecoinról</translation>
     </message>
     <message>
@@ -373,7 +373,7 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Litecoin</source>
+        <source>Show information About Minidoge</source>
         <translation>Információk a Litecoinról</translation>
     </message>
     <message>
@@ -479,7 +479,7 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Litecoin</source>
+        <source>&amp;About Minidoge</source>
         <translation>&amp;A Litecoinról</translation>
     </message>
     <message>

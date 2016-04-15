@@ -4,7 +4,7 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Litecoin</source>
+        <source>About Minidoge</source>
         <translation>O Litecoinu</translation>
     </message>
     <message>
@@ -374,7 +374,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Litecoin</source>
+        <source>Show information About Minidoge</source>
         <translation>Zobraz informace o Litecoinu</translation>
     </message>
     <message>
@@ -480,7 +480,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Litecoin</source>
+        <source>&amp;About Minidoge</source>
         <translation>O &amp;Litecoinu</translation>
     </message>
     <message>

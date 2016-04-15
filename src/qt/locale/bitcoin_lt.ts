@@ -4,7 +4,7 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Litecoin</source>
+        <source>About Minidoge</source>
         <translation>Apie Litecoin</translation>
     </message>
     <message>
@@ -373,7 +373,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Litecoin</source>
+        <source>Show information About Minidoge</source>
         <translation>Rodyti informaciją apie Litecoin</translation>
     </message>
     <message>
@@ -479,7 +479,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Litecoin</source>
+        <source>&amp;About Minidoge</source>
         <translation>&amp;Apie Litecoin</translation>
     </message>
     <message>
