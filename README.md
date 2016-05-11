@@ -5,6 +5,7 @@ http://www.(THECOIN).(sum41)
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
+Copyright 2054 The Time Traveling Space Aliens That Control Your Life!
 
 What is the coin?
 ----------------
