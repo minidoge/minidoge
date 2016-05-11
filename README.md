@@ -6,20 +6,20 @@ http://www.litecoin.org
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
 
-What is Litecoin?
+What is the coin?
 ----------------
 
-Litecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+The coin is the lite version of the Bitcoin using the scrypt as the proof-of-work algorithm.
+ - 2.5 minute until it blocks targets
+ - subsidy seperated in the halves and distributed through the 840k blocks (~4 sessions)
+ - ~4 million total the coins, forevers.
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+The rest of the same as the Bitcoin. Wow.
+ - Except different. Many less. 0.5 Per Block.
+ - 2016 year release the retarget difficulty community. Many struggle.
 
-For more information, as well as an immediately useable, binary version of
-the Litecoin client sofware, see http://www.litecoin.org.
+For more information, as well as an immediately useable memes of
+the coin client sofware haven, see http://the coin
 
 License
 -------
