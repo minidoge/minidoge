@@ -1,7 +1,7 @@
-Litecoin integration/staging tree
+The coin integration/staging tree
 ================================
 
-http://www.litecoin.org
+http://www.(THECOIN).(sum41)
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
