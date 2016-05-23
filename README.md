@@ -1,15 +1,16 @@
-Mini Doge integration/staging tree
-================================
-http://www.minidoge.pw
+Mini Doge integration/staging tree <br>
+================================ <br>
+http://www.minidoge.pw <br>
 
-Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Litecoin Developers
-Copyright (c) 2014 UnitedScryptCoin Developers
-Copyright (c) 2013-2016 Dogecoin Developers
+Copyright (c) 2009-2013 Bitcoin Developers <br>
+Copyright (c) 2011-2013 Litecoin Developers <br>
+Copyright (c) 2014 UnitedScryptCoin Developers <br>
+Copyright (c) 2013-2016 Dogecoin Developers <br>
+Copyright (c) 2016 MiniDoge Developers <br>
 
 
-What is MiniDoge (mINU)
-----------------
+What is MiniDoge (mINU) <br>
+---------------- <br>
 
 The coin is the lite version of the BTC (Similar to LTC) using the scrypt as the proof-of-work algorithm. Wow.
 It also uses AuxPOW which aims to recycle hashpower from mining of other chains, 
