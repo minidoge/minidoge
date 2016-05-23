@@ -1,26 +1,29 @@
-The coin integration/staging tree
+Mini Doge integration/staging tree
 ================================
-
-http://www.(THECOIN).(sum41)
+http://www.minidoge.pw
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
-<br>Copyright 2054 The Time Traveling Space Aliens That Control Your Life!
+Copyright (c) 2014 UnitedScryptCoin Developers
+Copyright (c) 2013-2016 Dogecoin Developers
 
-What is the coin?
+
+What is MiniDoge (mINU)
 ----------------
 
-The coin is the lite version of the Bitcoin using the scrypt as the proof-of-work algorithm.
- - 2.5 minute until it blocks targets
+The coin is the lite version of the BTC (Similar to LTC) using the scrypt as the proof-of-work algorithm. Wow.
+It also uses AuxPOW which aims to recycle hashpower from mining of other chains, 
+thus reducing the overall energy cost to create many of the Minidoge.
+ - 2.5 minute until it block retargets
  - subsidy seperated in the halves and distributed through the 840k blocks (~4 sessions)
- - ~4 million total the coins, forevers.
+
 
 The rest of the same as the Bitcoin. Wow.
  - Except different. Many less. 0.5 Per Block.
- - 2016 year release the retarget difficulty community. Many struggle.
+ - 2016 year release. Many strive. Much power.
 
 For more information, as well as an immediately useable memes of
-the coin client sofware haven, see http://the coin
+the coin client sofware haven, see http://www.minidoge.pw
 
 License
 -------
