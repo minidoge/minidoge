@@ -2796,7 +2796,7 @@ bool LoadBlockIndex()
         pchMessageStart[1] = 0xc1;
         pchMessageStart[2] = 0xb7;
         pchMessageStart[3] = 0xdc;
-        hashGenesisBlock = uint256("0xb92bc49428b600d337b78489b252a8f42b41d4aafcd220b022236444a9bd0b2a");
+        hashGenesisBlock = uint256("0x");
     }
 
     //
@@ -2835,7 +2835,7 @@ bool InitBlockIndex() {
         //      CTxOut(nValue=50.00000000, scriptPubKey=040184710fa689ad5023690c80f3a4)
 
         // Genesis block
-        const char* pszTimestamp = "Le Figaro 2013/11/30 19:36 CET Cuvillier relativise la mobilisation des routiers";
+        const char* pszTimestamp = "Entonces paso a través de la niebla y me arrastran a través del humo";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -2849,12 +2849,12 @@ bool InitBlockIndex() {
         block.nVersion = 1;
         block.nTime    = 1385836560;
         block.nBits    = 0x1e0ffff0;
-        block.nNonce   = 958772;
+        block.nNonce   = 0;
 
         if (fTestNet)
         {
             block.nTime    = 1385836559;
-            block.nNonce   = 72962;
+            block.nNonce   = 0;
         }
 
         //// debug print
