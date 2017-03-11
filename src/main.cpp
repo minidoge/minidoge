@@ -32,7 +32,7 @@ CTxMemPool mempool;
 unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
-uint256 hashGenesisBlock("0x89a47c0df0ab17773b26d2f03a480eb2a11bc022e83e611ca14b88428e0f4252");
+uint256 hashGenesisBlock("0x87d5efd06ae0dddb8de91fb1676eef69955b9efd397ae0dfaa11de29ea9253bb");
 static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // minidoge: starting difficulty is 1 / 2^12
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
@@ -2796,7 +2796,7 @@ bool LoadBlockIndex()
         pchMessageStart[1] = 0xc1;
         pchMessageStart[2] = 0xb7;
         pchMessageStart[3] = 0xdc;
-        hashGenesisBlock = uint256("0x");
+        hashGenesisBlock = uint256("0x87d5efd06ae0dddb8de91fb1676eef69955b9efd397ae0dfaa11de29ea9253bb");
     }
 
     //
@@ -2849,7 +2849,7 @@ bool InitBlockIndex() {
         block.nVersion = 1;
         block.nTime    = 1385836560;
         block.nBits    = 0x1e0ffff0;
-        block.nNonce   = 0;
+        block.nNonce   = 235005;
 
         if (fTestNet)
         {
