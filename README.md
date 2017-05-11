@@ -21,10 +21,10 @@ thus reducing the overall energy cost to create many of the Minidoge.
 
 The rest of the same as the Bitcoin. Wow.
  - Except different. Many less. 0.5 Per Block.
- - 2016 year release. Many strive. Much power.
+ - 2017 year release. Many strive. Much power.
 
 For more information, as well as an immediately useable memes of
-the coin client sofware haven, see http://www.minidoge.pw
+the coin client sofware haven, see The Website and The Forum
 
 License
 -------
