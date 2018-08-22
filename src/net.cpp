@@ -1246,7 +1246,7 @@ void ThreadDNSAddressSeed()
 
 unsigned int pnSeed[] =
 {
-    0x36ba80b8 // seed
+    0x36CA3FFC, 0x36BA80B8 
     
 };
 
