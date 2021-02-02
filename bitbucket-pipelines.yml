@@ -20,7 +20,7 @@ pipelines:
             script:
               #  
            - Install pip sudo apt-get install python3-pip
-              - make lint
+              
         - step:
             name: Build and Run
             script:
