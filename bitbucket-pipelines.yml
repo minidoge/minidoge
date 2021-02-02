@@ -14,10 +14,12 @@ pipelines:
             name: Test
             script:
               - apt update && apt -y install cppcheck && cppcheck
+              - MAKE CHECK
         - step:
             name: Lint
             script:
               #  
+           - Install pip sudo apt-get install python3-pip
               - make lint
         - step:
             name: Build and Run
