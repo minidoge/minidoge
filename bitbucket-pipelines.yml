@@ -13,11 +13,11 @@ pipelines:
         - step:
             name: Test
             script:
-              - make check
+              - apt update && apt -y install cppcheck && cppcheck
         - step:
             name: Lint
             script:
-              # apt update && apt -y install cppcheck && cppcheck .
+              #  
               - make lint
         - step:
             name: Build and Run
