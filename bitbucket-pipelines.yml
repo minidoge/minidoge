@@ -13,17 +13,20 @@ pipelines:
         - step:
             name: Test
             script:
-              - apt update && apt -y install cppcheck && cppcheck
-              - MAKE CHECK
-        - step:
-            name: Lint
-            script:
-              #  
-           - Install pip sudo apt-get install python3-pip
-              
-        - step:
-            name: Build and Run
-            script:
-              - make compile
-              # Execute your C++ application after compilation to check success
-              - make distcheck
+              - apt update && apt -y install cppcheck && cppchecK
+              - make check
+        - step
+      name: Manual step
+      script:
+            - make check
+    - step:
+                name: Lint
+                script:
+              # apt update && apt -y install cppcheck && cppcheck .
+    - make lint
+    - step:
+                name: Build and Run
+                script:
+    - make compile
+              # Execute your C++ application after compilation to check succes      
+    - make distcheck
